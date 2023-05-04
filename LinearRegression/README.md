@@ -1,5 +1,7 @@
 linearRegression Computes the linear regression of a data set
-Compute the linear regression based on inputs:
+Compute the linear regression based on 
+
+inputs:
 1. x: x-values for our data set
 2. y: y-values for our data set
 
