@@ -1,4 +1,5 @@
 linearRegression Computes the linear regression of a data set
+
 Compute the linear regression based on 
 
 inputs:
