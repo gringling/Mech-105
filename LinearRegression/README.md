@@ -15,4 +15,4 @@ Syntax: linearRegression(x,y)
 >example: 
 > x = [1 2 3 4 5]
 > y = [1 2 1.3 3.75 2.5]
-> 
+> [fX, fY, slope, intercept, Rsquared] = linearRegression(x,y)
