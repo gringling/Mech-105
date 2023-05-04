@@ -17,4 +17,5 @@ Syntax: falsePosition(func, xl, xu, es, maxit, varargin)
 Example: 
 
 >fx = @(x) x^2 - 2
+>
 >root = falsePosition(fx, -2, 2, 0.01, 10) 
